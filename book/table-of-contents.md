@@ -1,6 +1,6 @@
 # DevOps in the Trenches
 
-## Master Table of Contents
+## Table of Contents
 
 *The field guide to building, changing, securing, operating, and leading production systems under pressure.*
 
