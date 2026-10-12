@@ -80,7 +80,7 @@ She also leads VERIQTA PRESS, a publishing imprint dedicated to practical engine
 
 ## Copyright and permitted use
 
-**© 2026 Ann Ogechi Felix. All rights reserved.** This is a **publicly accessible, proprietary book repository**, not an open-source or open-content publication. Access to the sample material does not grant permission to reproduce, distribute, adapt, translate, train AI models on, resell, or commercially exploit the material. Linking to the public repository is welcome. Rights and exceptions provided by applicable law remain unaffected.
+**© 2026 Ann Felix. All rights reserved.** This is a **publicly accessible, proprietary book repository**, not an open-source or open-content publication. Access to the sample material does not grant permission to reproduce, distribute, adapt, translate, train AI models on, resell, or commercially exploit the material. Linking to the public repository is welcome. Rights and exceptions provided by applicable law remain unaffected.
 
 See the **[full copyright and permissions notice](COPYRIGHT.md)**. For licensing requests: **devops-in-the-trenches@veriqta.com**.
 
