@@ -1,6 +1,6 @@
 # Read free sample chapters
 
-Welcome to the official public reading directory for **DevOps in the Trenches** by **Ann Ogechi Felix**, published by **VERIQTA PRESS**.
+Welcome to the official public reading directory for **DevOps in the Trenches** by **Ann Felix**, published by **VERIQTA PRESS**.
 
 This folder is the permanent destination for the book's approved free sample chapters, including links from [the official website](https://veriqtapress.com). It is not the complete paid manuscript.
 
@@ -10,4 +10,4 @@ This folder is the permanent destination for the book's approved free sample cha
 
 ---
 
-**© 2026 Ann Ogechi Felix. All rights reserved.** Samples are provided for individual reading and reference, not unrestricted copying, distribution, republication, or commercial reuse. See [copyright and permissions](../COPYRIGHT.md).
+**© 2026 Ann Felix. All rights reserved.** Samples are provided for individual reading and reference, not unrestricted copying, distribution, republication, or commercial reuse. See [copyright and permissions](../COPYRIGHT.md).
