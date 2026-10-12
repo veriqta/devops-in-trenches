@@ -2,7 +2,7 @@
   <img src="assets/veriqta-press-banner.svg" alt="VERIQTA PRESS — DevOps in the Trenches. Real Systems. Real Failures. Real Lessons." width="100%">
 </p>
 
-<p align="center"><strong>By Ann Ogechi Felix · Published by VERIQTA PRESS</strong></p>
+<p align="center"><strong>By Ann Felix · Published by VERIQTA PRESS</strong></p>
 <p align="center"><a href="https://veriqtapress.com">Official book website</a> · <a href="https://github.com/veriqta/devops-in-trenches/tree/main/Chapter">Read free sample chapters</a></p>
 
 # DevOps in the Trenches
