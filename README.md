@@ -23,7 +23,7 @@ This repository is the **official public companion** to the book. It provides se
   <img src="assets/back-cover.jpg" alt="Official back cover of DevOps in the Trenches" width="280">
 </p>
 
-**Author:** Ann Ogechi Felix  
+**Author:** Ann Felix  
 **Publisher:** VERIQTA PRESS  
 **Status:** Coming soon  
 **Official website:** https://veriqtapress.com
