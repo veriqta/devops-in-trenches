@@ -67,6 +67,6 @@ The material is provided for educational and informational purposes. Production-
 ---
 
 **Official publication website:** https://veriqtapress.com  
-**Copyright owner:** Ann Ogechi Felix  
+**Copyright owner:** Ann Felix  
 **Publisher:** VERIQTA PRESS  
-**© 2026 Ann Ogechi Felix. All rights reserved.**
+**© 2026 Ann Felix. All rights reserved.**
