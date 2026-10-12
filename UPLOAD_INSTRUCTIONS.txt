@@ -1,0 +1,25 @@
+VERIQTA PRESS — SAFE REPOSITORY MIGRATION
+
+This package contains five ready-to-upload files plus two original cover images extracted from the previously supplied VERIQTA PRESS website package:
+  README.md
+  COPYRIGHT.md
+  Chapter/README.md
+  assets/veriqta-press-banner.svg
+  assets/front-cover.jpg
+  assets/back-cover.jpg
+
+IMPORTANT: This is a proposed replacement for selected public-facing files, NOT a full backup of your current repository.
+
+1. Download a full backup of your existing GitHub repository before any cleanup.
+2. Upload README.md and COPYRIGHT.md to the repository root.
+3. Upload the three assets to a new assets/ folder.
+4. Add Chapter/README.md inside the EXISTING Chapter/ folder. Do NOT replace or delete existing chapter files.
+5. Confirm both covers are your final approved editions before publishing them.
+6. Review the live README and sample folder links in GitHub.
+7. Only after reviewing each old folder's contents, remove obsolete directories in a separate commit. Do not delete book/, samples/, checklists/, errata/, media/, resources/ or other files blindly.
+
+The website links to https://github.com/veriqta/devops-in-trenches/tree/main/Chapter — preserve that path exactly.
+
+The Chapter README intentionally does not invent sample chapter filenames, because the current GitHub folder contents were not available to inspect. After inspecting the live folder, add a short verified chapter list if useful.
+
+The strict copyright notice is a publishing draft, not a substitute for jurisdiction-specific legal review. GitHub platform terms and applicable copyright exceptions still apply.

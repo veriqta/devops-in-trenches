@@ -1,113 +1,72 @@
-# Copyright and Use Policy
+# Copyright, Rights Reserved & Permissions
 
-## Copyright Notice
+**DevOps in the Trenches**  
+**Author and copyright owner:** Ann Ogechi Felix  
+**Publisher:** VERIQTA PRESS  
+**Copyright © 2026 Ann Ogechi Felix. All rights reserved.**
 
-Copyright © 2026 Ann Ogechi Felix. All rights reserved.
+## 1. Proprietary publication — not open source
 
-DevOps in the Trenches, including the book, the original selection and arrangement of its curriculum and chapters, explanations, scenarios, case studies, checklists, templates, worksheets, diagrams, illustrations, graphics, branding, and companion resources, is protected by applicable copyright laws and international agreements.
+The book, its publicly released sample chapters, original text, editorial material, cover artwork and other original assets are proprietary works. This public GitHub repository is provided to introduce the book and make selected samples available to readers. **Public access, GitHub visibility, or the ability to download or fork the repository does not constitute an open-source license, Creative Commons license, public-domain dedication, or permission for unrestricted reuse.** No open-content license is granted by this repository.
 
-This repository is publicly accessible, but the work is proprietary. It is not open source, public domain, or released under a Creative Commons or other open-content license unless a specific file states otherwise in writing.
+All rights not expressly granted below are reserved by their respective rights holders. Third-party trademarks, quotations, and other third-party material, if present, remain subject to their own rights.
 
-## Limited Permission to Access the Repository
+## 2. Limited permission for readers
 
-Subject to this policy, you may:
+Subject to applicable law, you may:
 
-- View and read material made public in this repository.
-- Download a personal copy where the repository interface permits it.
-- Link to public repository pages.
-- Cite the work with appropriate attribution.
-- Use brief quotations for review, commentary, scholarship, teaching discussion, or other purposes permitted by applicable law.
-- Use publicly released checklists to review systems you own or are authorized to assess, provided that you do not republish or resell the checklist.
+- Access and read the materials made public in this repository for personal, noncommercial informational use.
+- Share **links** to the official website or public repository, rather than uploading copies of the materials elsewhere.
+- Refer to the book by title and author and quote brief passages where legally permitted, with appropriate attribution.
 
-This limited permission is personal, non-exclusive, non-transferable, revocable, and subject to applicable law. It does not transfer copyright or grant ownership of any part of the work.
+These permissions do **not** grant a right to distribute copies, create derivative editions, or commercially exploit the work.
 
-## Uses Requiring Written Permission
+## 3. Uses requiring prior written permission
 
-Unless applicable law permits the use without authorization, written permission is required before you:
+Unless an applicable legal exception or another valid authorization permits the use, **do not** undertake any of the following without prior written permission from the relevant rights holder:
 
-- Reproduce or republish a complete chapter, substantial section, checklist, template, worksheet, diagram, or collection of material.
-- Redistribute repository contents through another repository, website, application, file collection, learning platform, or publication.
-- Sell, sublicense, rent, bundle, or commercially distribute any part of the work.
-- Translate, adapt, abridge, dramatize, narrate, record, or create a substantial derivative edition.
-- Include the material in a paid course, bootcamp, membership, consulting package, corporate training product, or subscription service.
-- Use the material as the substantial basis of another book, handbook, curriculum, knowledge base, or commercial dataset.
-- Remove or obscure authorship, copyright, attribution, source, or rights notices.
-- Use the title, branding, cover, logo, or presentation in a way that suggests endorsement, affiliation, or an official edition.
-- Publish generated summaries or transformations that reproduce protected expression or substitute for the original work.
+- Copy, reproduce, scan, photograph, or distribute substantial portions of the book or its sample chapters.
+- Upload or repost the book, chapter PDFs, screenshots, page images, or extracted text to websites, social networks, messaging groups, cloud drives, document-sharing platforms, or other repositories.
+- Sell, sublicense, bundle, give away, or otherwise distribute unauthorized copies, whether paid or free.
+- Translate, adapt, abridge, narrate, record, or republish the work as a new edition, audiobook, video course, newsletter, slide deck, handbook, or other derivative format.
+- Include substantial book material in paid courses, bootcamps, corporate training, commercial documentation, or subscription products.
+- Collect, scrape, or systematically extract the material for datasets, machine-learning training, fine-tuning, retrieval corpora, or other automated content-reuse systems where permission is legally required.
+- Remove or falsify copyright notices, author credits, attribution, watermarks, license identifiers, or ownership statements in a manner that infringes applicable rights.
+- Reuse the original book-cover artwork, VERIQTA PRESS branding, or other protected creative assets for merchandise, promotions, or third-party publications without authorization.
 
-Permission is not granted merely because a use is noncommercial, educational, internal, or technically possible through the repository interface.
+**Giving credit is not a substitute for obtaining permission.** A work being freely viewable online does not make it freely redistributable.
 
-## Artificial Intelligence and Automated Processing
+## 4. Social media and community sharing
 
-No permission is granted under this policy to use the work, or a substantial portion of it, to train, fine-tune, benchmark, evaluate, ground, index for commercial retrieval, or otherwise develop a commercial artificial intelligence or machine-learning system.
+Readers, reviewers, and community organizers are welcome to **link** to the official book page or public sample directory. Do not assume that permission to promote the book includes permission to post full pages, entire chapters, the complete PDF, cover artwork in modified form, or a downloadable copy. Requests for promotional excerpts or approved media assets should be made in writing.
 
-This restriction does not limit rights that cannot lawfully be restricted, including uses permitted by applicable law. It also does not prohibit ordinary search-engine indexing necessary to locate public repository pages.
+## 5. GitHub-specific notice
 
-Requests for research, accessibility, preservation, or other automated uses must identify the material, purpose, storage method, access controls, retention period, and intended outputs.
+GitHub's technical features may allow viewing, downloading, or forking public repositories. Those platform functions do not themselves grant a separate copyright license to publish, redistribute, adapt, or commercially use the book. Platform terms and rights arising under applicable law still apply.
 
-## Personal and Internal Use
+## 6. Copyright exceptions and other rights
 
-You may use the ideas and practices you learn from the book in your own authorized engineering work. Copyright protects the expression of the work, not ownership of general DevOps knowledge, facts, methods, or skills.
+Nothing in this notice is intended to prohibit uses that applicable law permits without authorization, including qualifying quotation, criticism, review, fair use, fair dealing, accessibility exceptions, or other statutory rights, where relevant. The precise scope of those rights depends on the jurisdiction and circumstances.
 
-Personal or internal use does not include:
+This notice does not claim ownership of third-party material and does not override valid permissions separately granted in writing.
 
-- Uploading substantial portions to a shared training library.
-- Distributing copies across a company or class.
-- Removing attribution and presenting the material as internal authorship.
-- Converting the work into another format for broad distribution.
-- Selling services or products that reproduce the protected material.
+## 7. Permission requests and suspected infringement
 
-Organizations seeking broader internal use should request permission before distributing protected content.
+For written permission, licensing, educational use, translation, media, or commercial requests, contact:
 
-## Contributions and Suggested Changes
+**devops-in-the-trenches@veriqta.com**
 
-Submitting an issue does not transfer ownership of the submitter's original material.
+Describe the specific material, proposed use, audience, format, distribution channel, territory, and duration. **Silence or lack of response does not constitute permission.**
 
-By submitting a pull request, patch, replacement text, diagram, checklist item, example, or other contribution, you confirm that:
+To report suspected unauthorized distribution, send the relevant URL and a short description to the same address. Do not send private credentials or confidential information.
 
-- You created the contribution or have the legal right to submit it.
-- The contribution does not contain confidential, proprietary, plagiarized, unlawfully obtained, or restricted material.
-- The contribution does not violate another person's copyright, trademark, privacy, contractual, or other rights.
-- You grant Ann Ogechi Felix a worldwide, perpetual, irrevocable, non-exclusive, royalty-free right to use, reproduce, edit, adapt, publish, distribute, display, perform, sublicense, and incorporate the contribution into any edition or format of DevOps in the Trenches and its companion material.
-- You understand that acceptance does not create joint authorship, co-ownership, employment, payment, royalty, or a right to editorial control.
+## 8. No warranty or professional advice
 
-Do not submit a contribution if you cannot grant these rights.
+The material is provided for educational and informational purposes. Production-system changes can create security, reliability, operational, and financial risks. Readers remain responsible for obtaining appropriate authorization, evaluating their environments, testing changes, and seeking qualified advice when necessary. To the extent permitted by applicable law, no warranty is made as to suitability for any particular purpose.
 
-Attribution for accepted contributions may be provided at the author's discretion and according to [CONTRIBUTING.md](CONTRIBUTING.md). Corrections of facts, spelling, grammar, links, or formatting may be acknowledged collectively rather than individually.
+---
 
-## Third-Party Material
-
-Product names, company names, standards, specifications, quotations, trademarks, logos, and other third-party material remain the property of their respective owners.
-
-Third-party material may be used for identification, commentary, instruction, or attribution. This copyright policy does not grant rights to third-party material. Users must comply with the terms established by the relevant rights holder.
-
-## No Implied Endorsement
-
-Reference to a product, project, company, standard, or organization does not imply endorsement, sponsorship, certification, affiliation, or partnership unless the repository states otherwise explicitly.
-
-No person or organization may use the author's name, the book title, or associated branding to imply approval of a product, service, course, event, or publication without written permission.
-
-## Reporting Copyright Concerns
-
-If you believe material in this repository infringes rights you own or control, submit a private rights notice through an appropriate contact method when one is published. Do not disclose confidential personal information through a public issue.
-
-A useful notice should include:
-
-- Identification of the protected work.
-- Identification and location of the disputed material.
-- An explanation of the claimed rights.
-- Contact information for a response.
-- A statement that the report is accurate and made in good faith.
-- Evidence of authority to act for the rights holder, where applicable.
-
-Incomplete or abusive notices may not receive a response.
-
-## Permissions
-
-Permission exists only when the copyright owner grants it explicitly in writing. Silence, delayed response, issue closure, repository access, a fork option, a download option, or another technical capability does not provide permission beyond the limited rights stated in this policy.
-
-## Reservation of Rights
-
-All rights not expressly granted are reserved by Ann Ogechi Felix.
-
-This policy describes the permissions offered by the copyright owner. It is not legal advice and does not override rights, limitations, or exceptions established by applicable law.
+**Official publication website:** https://veriqtapress.com  
+**Copyright owner:** Ann Ogechi Felix  
+**Publisher:** VERIQTA PRESS  
+**© 2026 Ann Ogechi Felix. All rights reserved.**

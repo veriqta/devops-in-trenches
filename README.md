@@ -1,36 +1,54 @@
+<p align="center">
+  <img src="assets/veriqta-press-banner.svg" alt="VERIQTA PRESS — DevOps in the Trenches. Real Systems. Real Failures. Real Lessons." width="100%">
+</p>
+
+<p align="center"><strong>By Ann Ogechi Felix · Published by VERIQTA PRESS</strong></p>
+<p align="center"><a href="https://veriqtapress.com">Official book website</a> · <a href="https://github.com/veriqta/devops-in-trenches/tree/main/Chapter">Read free sample chapters</a></p>
+
 # DevOps in the Trenches
 
-## Operating Real Systems Under Pressure
+**A field guide to building, changing, securing, operating, and leading production systems under pressure.**
 
-DevOps in the Trenches is a production-focused book for engineers and technical leaders responsible for building, changing, securing, operating, recovering, and governing real systems.
+Production does not care how many tools you know or how successful a deployment looks on paper. When systems fail, the important questions become harder: What does the evidence tell us? Who owns the decision? How far can the failure spread? What is the safest path to recovery?
 
-The book begins where simplified DevOps explanations usually end. It examines what happens when architecture diagrams meet traffic, automation meets state, security controls meet delivery pressure, and ownership meets production consequence.
+*DevOps in the Trenches* explores the engineering judgment behind reliable production systems. Through production-inspired situations, operational lessons, and difficult trade-offs, it examines what happens when infrastructure, automation, security, people, and organizational decisions meet under pressure.
 
-This repository is the public companion to the book. It gives readers a clear route into the book, selected reading material, operational checklists, supporting resources, and verified corrections.
+This repository is the **official public companion** to the book. It provides selected reading material and a direct route to the publication. **The complete manuscript is not published here.**
 
-## The Book
+## The book
 
-**Title:** DevOps in the Trenches  
-**Subtitle:** The Field Guide to Building, Changing, Securing, Operating, and Leading Production Systems Under Pressure  
+<p align="center">
+  <img src="assets/front-cover.jpg" alt="Official front cover of DevOps in the Trenches" width="280">
+  &nbsp;&nbsp;
+  <img src="assets/back-cover.jpg" alt="Official back cover of DevOps in the Trenches" width="280">
+</p>
+
 **Author:** Ann Ogechi Felix  
-**Edition:** Public reader edition, 2026
+**Publisher:** VERIQTA PRESS  
+**Status:** Coming soon  
+**Official website:** https://veriqtapress.com
 
-DevOps in the Trenches is not a command reference, certification guide, or catalogue of products. It develops the judgment required to operate systems whose technical, organizational, security, financial, and human conditions cannot be separated.
+## What the book explores
 
-## Start Reading
+- **Failures behind healthy dashboards:** How apparently successful changes can conceal operational risk.
+- **Engineering trade-offs:** Reliability, security, cost, performance, and scale rarely improve independently.
+- **Change under control:** The limits of automation, the importance of evidence, and the discipline of safe delivery.
+- **Systems in production:** Cloud infrastructure, platforms, Kubernetes, networks, data, and recovery.
+- **Operating under pressure:** Incident decisions, communication, containment, restoration, and learning.
+- **Ownership and leadership:** How technical responsibility and organizational decisions shape production outcomes.
 
-1. [Book Introduction](book/introduction.md)
-2. [How to Use This Book](book/how-to-use-this-book.md)
-3. [Master Table of Contents](book/table-of-contents.md)
-4. [Publication Information](book/publication-information.md)
-5. [Book Guide](book/README.md)
+## Read free sample chapters
 
-## Curriculum at a Glance
+**[Explore the official sample chapter directory →](https://github.com/veriqta/devops-in-trenches/tree/main/Chapter)**
 
-The book contains 63 chapters across 12 parts.
+The `Chapter/` directory contains the publicly available reading material. These samples introduce the book's approach; they are **not** the complete 63-chapter publication. The directory path is intentionally preserved because it is linked from the official website.
 
-| Part | Subject |
-| --- | --- |
+## Inside the book
+
+The full book is organized into **63 chapters across 12 parts**:
+
+| Part | Focus |
+|:---:|---|
 | I | Seeing Production Clearly |
 | II | Ownership, Teams, and Decision Rights |
 | III | Designing for Operability |
@@ -44,151 +62,28 @@ The book contains 63 chapters across 12 parts.
 | XI | Operating Under Pressure |
 | XII | Leading the Whole System |
 
-Read the complete [table of contents](book/table-of-contents.md) for all chapters and sessions.
+The book is written for DevOps, site reliability, platform, cloud, infrastructure, security, and software engineers, as well as architects and technical leaders who make decisions about production systems.
 
-## Who This Is For
+## About the author
 
-The book is intended for:
+Ann Felix is a Senior DevOps Engineer, technical author, and founder of VERIQTA, an engineering education brand focused on DevOps, cloud computing, site reliability, and platform engineering.
 
-- DevOps and production engineers.
-- Site reliability engineers.
-- Platform engineers.
-- Cloud, systems, and infrastructure engineers.
-- Security and compliance engineers.
-- Software engineers who own production services.
-- Architects responsible for operability and change.
-- Engineering managers and technical program leaders.
-- Directors, heads of engineering, CTOs, and technology decision-makers.
+Her work focuses on making complex engineering concepts accessible while emphasizing the operational realities, technical decisions, and challenges engineers encounter in production environments.
 
-It assumes that the reader wants more than tool familiarity. The material focuses on ownership, evidence, decision-making, trade-offs, failure behavior, blast-radius control, recovery, and learning.
+As the author of *DevOps in the Trenches*, Ann explores production-inspired failures, engineering trade-offs, and the judgment required to build and operate reliable systems.
 
-## Repository Map
+She also leads VERIQTA PRESS, a publishing imprint dedicated to practical engineering books, technical knowledge, and professional development.
 
-```text
-devops-in-trenches/
-├── README.md
-├── COPYRIGHT.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── CHANGELOG.md
-├── book/
-├── samples/
-├── checklists/
-├── resources/
-├── errata/
-├── media/
-└── .github/
-```
+## Publication and availability
 
-### [book/](book/)
+**Coming soon.** For the official publication information and future purchase availability, visit **[veriqtapress.com](https://veriqtapress.com)**. No checkout or preorder is offered through this repository.
 
-The book introduction, reading guide, curriculum, publication information, and reader navigation.
+## Copyright and permitted use
 
-### [samples/](samples/)
+**© 2026 Ann Ogechi Felix. All rights reserved.** This is a **publicly accessible, proprietary book repository**, not an open-source or open-content publication. Access to the sample material does not grant permission to reproduce, distribute, adapt, translate, train AI models on, resell, or commercially exploit the material. Linking to the public repository is welcome. Rights and exceptions provided by applicable law remain unaffected.
 
-Approved sample chapters and excerpts released for public reading.
+See the **[full copyright and permissions notice](COPYRIGHT.md)**. For licensing requests: **devops-in-the-trenches@veriqta.com**.
 
-### [checklists/](checklists/)
+---
 
-Operational review material covering delivery, platforms, security, reliability, recovery, and leadership.
-
-### [resources/](resources/)
-
-Further reading, frameworks, templates, and glossary material that support the book.
-
-### [errata/](errata/)
-
-Confirmed corrections and instructions for reporting errors.
-
-### [media/](media/)
-
-Approved cover, author, and press material.
-
-### [.github/](.github/)
-
-Issue and pull-request templates for technical corrections, broken links, and reader feedback.
-
-## What You Will Find Here
-
-The public repository organizes reader material into:
-
-- The master table of contents.
-- The introduction and reading guide.
-- Selected sample chapters.
-- Approved excerpts.
-- Operational checklists.
-- Reader worksheets and templates.
-- A glossary and further-reading guides.
-- Errata and version history.
-- Cover and press material.
-
-This repository is a reader companion, not a replacement for the complete book. Public access to selected material does not transfer ownership or create an open-source license for the book.
-
-## Chapter Standard
-
-Each chapter follows a complete operating structure containing:
-
-1. A clear purpose and reader outcome.
-2. An opening production scenario.
-3. Five focused sessions.
-4. Decisions, trade-offs, and failure modes.
-5. A war story or field case.
-6. Lessons from the trenches.
-7. An operational checklist.
-8. Connections to related chapters.
-9. Curated further reading.
-
-The chapter structure keeps the book practical without turning it into a product tutorial.
-
-## Corrections and Reader Feedback
-
-Accurate technical feedback is welcome.
-
-Use the available issue templates to report:
-
-- A technical correction.
-- A broken link or unavailable source.
-- Unclear wording.
-- An accessibility problem.
-- A contradiction between public files.
-- A version-specific error.
-
-Reports should identify the affected file and section, describe the problem precisely, and provide authoritative evidence where appropriate.
-
-Do not submit credentials, customer information, confidential incidents, private architecture, restricted documents, exploit details that require coordinated disclosure, or other sensitive information.
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request.
-
-## Copyright and Use
-
-Copyright © 2026 Ann Ogechi Felix. All rights reserved.
-
-This is a publicly accessible proprietary book repository. The book is not open source and is not released under an open-content license.
-
-You may read, link to, and reference the public material. Other uses, including substantial copying, redistribution, translation, adaptation, commercial training use, resale, or republication, may require written permission.
-
-Read [COPYRIGHT.md](COPYRIGHT.md) and [Publication Information](book/publication-information.md) before reusing material.
-
-## Responsible Use
-
-The repository discusses production systems, security, credentials, incident response, resilience testing, failover, recovery, and other consequential work.
-
-Apply material only in systems you own or are authorized to use. Test changes appropriately. Protect data and credentials. Review failure modes, blast radius, recovery, observation, and stop conditions before changing a live environment.
-
-The repository provides educational material, not legal, regulatory, audit, financial, or other licensed professional advice.
-
-## Citation
-
-Use the following citation for this public edition:
-
-> Felix, Ann Ogechi. *DevOps in the Trenches: The Field Guide to Building, Changing, Securing, Operating, and Leading Production Systems Under Pressure.* Public reader edition, 2026.
-
-When citing repository material, include the relevant release tag or commit identifier.
-
-## Author
-
-Ann Ogechi Felix writes about DevOps, site reliability engineering, platform engineering, cloud infrastructure, operational security, incident learning, and the decisions required to run production systems responsibly.
-
-## Continue
-
-Begin with [The Work Begins Where the Diagram Ends](book/introduction.md).
+<p align="center"><strong>VERIQTA PRESS</strong><br>REAL SYSTEMS. REAL FAILURES. REAL LESSONS.<br><a href="https://veriqtapress.com">veriqtapress.com</a></p>
