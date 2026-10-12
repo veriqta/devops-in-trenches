@@ -3,7 +3,7 @@
 **DevOps in the Trenches**  
 **Author and copyright owner:** Ann Felix  
 **Publisher:** VERIQTA PRESS  
-**Copyright © 2026 Ann Ogechi Felix. All rights reserved.**
+**Copyright © 2026 Ann Felix. All rights reserved.**
 
 ## 1. Proprietary publication — not open source
 
