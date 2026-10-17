@@ -1,5 +1,5 @@
 
-![DevOps in the Trenches — Official Free Chapter Preview](https://github.com/veriqta/digital-forensic-guide/blob/main/DevOps%20in%20the%20Trenches%20Free%20Preview.png)
+![DevOps in the Trenches — Official Free Chapter Preview](https://github.com/veriqta/ann-felix/blob/main/DevOps%20in%20the%20Trenches%20Free%20Preview.png)
 
 # Read free sample chapters
 
