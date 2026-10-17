@@ -1,3 +1,6 @@
+
+![DevOps in the Trenches — Official Free Chapter Preview](https://github.com/veriqta/digital-forensic-guide/blob/main/DevOps%20in%20the%20Trenches%20Free%20Preview.png)
+
 # Read free sample chapters
 
 Welcome to the official public reading directory for **DevOps in the Trenches** by **Ann Felix**, published by **VERIQTA PRESS**.
